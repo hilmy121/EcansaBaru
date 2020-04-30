@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "453521488957",
+    "firebase_url": "https://cobacoba-b221e.firebaseio.com",
+    "project_id": "cobacoba-b221e",
+    "storage_bucket": "cobacoba-b221e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453521488957:android:df8fbdc8d9b1e6cf82fe54",
+        "android_client_info": {
+          "package_name": "com.practice.ecansa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453521488957-16vu9j1u6vlr9i2vu58vn9r98v845gao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.ecansa",
+            "certificate_hash": "e049a208850c9c15bc043c7e385d21b11594a8f1"
+          }
+        },
+        {
+          "client_id": "453521488957-375chn1p1tdjp009kq0tehi4703ef8rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAer79azqJV5PnmM8tfAiT2xZowjXM5SBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453521488957-375chn1p1tdjp009kq0tehi4703ef8rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
